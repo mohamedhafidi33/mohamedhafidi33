@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Myself :D
 - 🌱 I’m currently learning everything about data science
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with start an internship
+- 🤔 I’m looking for help with starting an internship
 - 💬 Ask me about Java
 - 📫 How to reach me: https://twitter.com/MohamedHafidi_
 <!--- 😄 Pronouns: ... -->
