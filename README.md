@@ -7,7 +7,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with starting an internship
 - 💬 Ask me about Java
-- 📫 How to reach me: https://twitter.com/MohamedHafidi_
+- 📫 How to reach me: [https://twitter.com/MohamedHafidi_](https://twitter.com/MohamedHafidi_)
 <!--- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I don't like front-end stuff
 
