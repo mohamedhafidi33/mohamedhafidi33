@@ -15,10 +15,10 @@
 
 ## Best read & recommended Tech Books:
 
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow : [oreilly.com/library/view/hands-on-machine-learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/),<br />
-- Statistical Computing with R : <a href=https://www.amazon.de/-/en/Maria-L-Rizzo/dp/1466553324 >, <br />
-- Spring in Action : <a href = https://www.manning.com/books/spring-in-action-sixth-edition>, <br />
-- Python for Data Analysis : <a href = https://www.oreilly.com/library/view/python-for-data/9781449323592/>, <br />
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow : [oreilly.com/hands-on-machine-learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/),<br />
+- Statistical Computing with R : [amazon.de/-/en/Maria-L-Rizzo/dp/1466553324](https://www.amazon.de/-/en/Maria-L-Rizzo/dp/1466553324), <br />
+- Spring in Action : [manning.com/books/spring-in-action-sixth-edition](https://www.manning.com/books/spring-in-action-sixth-edition), <br />
+- Python for Data Analysis : [oreilly.com/python-for-data](https://www.oreilly.com/library/view/python-for-data/9781449323592/), <br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
