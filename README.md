@@ -19,6 +19,8 @@
 - Statistical Computing with R : [amazon.de/-/en/Maria-L-Rizzo/dp/1466553324](https://www.amazon.de/-/en/Maria-L-Rizzo/dp/1466553324), <br />
 - Spring in Action : [manning.com/books/spring-in-action-sixth-edition](https://www.manning.com/books/spring-in-action-sixth-edition), <br />
 - Python for Data Analysis : [oreilly.com/python-for-data](https://www.oreilly.com/library/view/python-for-data/9781449323592/), <br />
+- Effective Java : [amazon.de/-/en/Joshua-Bloch/dp/0134685997](https://www.amazon.de/-/en/Joshua-Bloch/dp/0134685997), <br/>
+- Pro Git : [amazon.de/-/en/Scott-Chacon/dp/1484200772](https://www.amazon.de/-/en/Scott-Chacon/dp/1484200772), <br/>
 
 ## 🧰 Languages and Tools:
 <p align="center">
