@@ -21,6 +21,7 @@
 - Python for Data Analysis : [oreilly.com/python-for-data](https://www.oreilly.com/library/view/python-for-data/9781449323592/), <br />
 - Effective Java : [amazon.de/-/en/Joshua-Bloch/dp/0134685997](https://www.amazon.de/-/en/Joshua-Bloch/dp/0134685997), <br/>
 - Pro Git : [amazon.de/-/en/Scott-Chacon/dp/1484200772](https://www.amazon.de/-/en/Scott-Chacon/dp/1484200772), <br/>
+- EJB 3 in Action : [https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347]([https://www.amazon.de/-/en/Scott-Chacon/dp/1484200772](https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347)), <br/>
 - Head First Design Patterns (A Brain Friendly Guide) : [amazon.de/-/en/Eric-Freeman/dp/0596007124](https://www.amazon.de/-/en/Eric-Freeman/dp/0596007124), <br/>
 
 ## 🧰 Languages and Tools:
