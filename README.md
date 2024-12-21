@@ -23,6 +23,7 @@
 - Pro Git : [amazon.de/-/en/Scott-Chacon/dp/1484200772](https://www.amazon.de/-/en/Scott-Chacon/dp/1484200772), <br/>
 - EJB 3 in Action : [https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347](https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347), <br/>
 - Head First Design Patterns (A Brain Friendly Guide) : [amazon.de/-/en/Eric-Freeman/dp/0596007124](https://www.amazon.de/-/en/Eric-Freeman/dp/0596007124), <br/>
+- Domain-Driven Design: Tackling Complexity in the Heart of Software : [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://a.co/d/hgk02Od), <br/>
 
 ## 🧰 Languages and Tools:
 <p align="center">
