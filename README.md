@@ -24,6 +24,7 @@
 - EJB 3 in Action : [https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347](https://www.amazon.de/EJB-3-Action-Debu-Panda/dp/1933988347), <br/>
 - Head First Design Patterns (A Brain Friendly Guide) : [amazon.de/-/en/Eric-Freeman/dp/0596007124](https://www.amazon.de/-/en/Eric-Freeman/dp/0596007124), <br/>
 - Domain-Driven Design: Tackling Complexity in the Heart of Software : [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://a.co/d/hgk02Od), <br/>
+- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions : [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
 
 ## 🧰 Languages and Tools:
 <p align="center">
