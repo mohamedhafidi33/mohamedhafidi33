@@ -35,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
+  <img width="1280" height="1280" alt="Typescript_logo_2020 svg" src="https://github.com/user-attachments/assets/c462f8c7-d09d-479f-9b12-9a6af0249916" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
