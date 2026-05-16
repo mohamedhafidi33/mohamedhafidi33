@@ -11,8 +11,6 @@
 <!--- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I don't like front-end stuff
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohamedhafidi33&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=viewers&edge_flat=false"/></a>
-
 ## Best read & recommended Tech Books:
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow : [oreilly.com/hands-on-machine-learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/),<br />
