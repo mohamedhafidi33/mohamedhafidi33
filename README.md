@@ -38,6 +38,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
   <img alt="Angular_gradient_logo" src="https://github.com/user-attachments/assets/1a120f98-dd74-4b3e-a40b-f2b30e893995" height="30" style="vertical-align:top; margin:4px />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
+  <img height="30" style="vertical-align:top; margin:4px alt="4844483" src="https://github.com/user-attachments/assets/47b43aae-ea08-4aa0-8f83-2dc3fe3a5539" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
